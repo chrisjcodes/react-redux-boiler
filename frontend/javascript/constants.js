@@ -1,6 +1,6 @@
 import km from 'keymirror';
 
-export const events = km({
+export const actionTypes = km({
     LOGIN: null,
     LOGOUT: null,
 });
